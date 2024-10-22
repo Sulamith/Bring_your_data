@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-1181822629">
+    <idno type="gnd">(DE-588)1181822629</idno>
+    <persName type="reg"><surname/><forename>Charlotte</forename><genName/><roleName>Albany, Herzogin</roleName></persName>
+    <gender value="F">female</gender>
+    <birth><date when="1753"/><placeName/></birth>
+    <death><date when="1789"/><placeName/></death>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>

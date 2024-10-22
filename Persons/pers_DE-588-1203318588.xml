@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-1203318588">
+    <idno type="gnd">(DE-588)1203318588</idno>
+    <persName type="reg">
+        <surname>Acker</surname>
+        <forename>Jean</forename>
+        <genName/>
+        <roleName/>
+    </persName><gender value="M">male</gender>
+    <birth><date when="1726"/><placeName/></birth>
+    <death><date notBefore="1759"/><placeName/></death>
+    <note type="bio">Kapuziner im Kloster von Blotzheim.</note>
+    <note type="internal"/><bibl/>
+</person>

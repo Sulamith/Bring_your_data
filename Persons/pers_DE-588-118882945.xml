@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-118882945">
+    <idno type="gnd">(DE-588)118882945</idno>
+    <persName type="reg"><surname/><forename>Cosimo</forename><genName>III.</genName><roleName>Toskana, Großherzog</roleName></persName><gender value="M">male</gender>
+    <birth><date when="1639"/><placeName/></birth>
+    <death><date when="1723"/><placeName/></death>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>

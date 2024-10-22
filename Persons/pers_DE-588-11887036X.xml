@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-11887036X">
+    <idno type="gnd">(DE-588)11887036X</idno>
+    <persName type="reg">
+        <surname/>
+        <forename>Karoline</forename>
+        <genName/>
+        <roleName>Großbritannien, Königin</roleName>
+    </persName>
+    <gender value="F">female</gender>
+    <birth><date when="1683"/><placeName/></birth>
+    <death><date when="1737"/><placeName/></death>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-133700300X">
+    <idno type="gnd">(DE-588)133700300X</idno>
+    <idno type="BEZ">DM</idno>
+    <persName type="reg"><surname>Mache</surname><forename>David</forename><genName/><roleName/></persName>
+    <note/>
+    <bibl/>
+</person>

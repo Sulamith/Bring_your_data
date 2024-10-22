@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-1323773495">
+    <idno type="gnd">(DE-588)1323773495</idno>
+    <persName type="reg">
+        <surname>Schorendorff</surname>
+        <forename>Elisabeth</forename>
+        <genName/>
+        <roleName/>
+    </persName>
+    <gender value="F">female</gender>
+    <birth><date when="1693"/><placeName/></birth>
+    <death><date notBefore="1720"/><placeName/></death>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>

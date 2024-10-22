@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-1178493288">
+    <idno type="gnd">(DE-588)1178493288</idno>
+    <persName type="reg">
+        <surname>Labia</surname>
+        <forename>Maria</forename>
+        <genName/>
+        <roleName/>
+    </persName>
+    <gender value="F">female</gender>
+    <floruit><date from="1702" to="1738"/></floruit>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>

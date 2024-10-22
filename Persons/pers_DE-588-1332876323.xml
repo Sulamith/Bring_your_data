@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://www.tei-c.org/ns/1.0" xml:id="pers_DE-588-1332876323">
+    <idno type="gnd">(DE-588)1332876323</idno>
+    <persName type="reg">
+        <surname>Melchiorri</surname>
+        <forename>Sebastiano</forename>
+        <genName/>
+        <roleName/>
+    </persName><gender value="M">male</gender>
+    <birth><date when="1657"/><placeName/></birth>
+    <death><date when="1728"/><placeName/></death>
+    <note type="bio"/>
+    <note type="internal"/><bibl/>
+</person>
